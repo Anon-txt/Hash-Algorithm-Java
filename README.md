@@ -1,3 +1,3 @@
 # Secure Hash Algorithm 
-Java
-## Sha1 - Sha256 - Sha512
+#### Sha1 - Sha256 - Sha512
+_(Java Version)_
